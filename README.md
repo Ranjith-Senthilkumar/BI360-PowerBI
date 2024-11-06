@@ -1,1 +1,1 @@
-Live Dashboard = "https://app.powerbi.com/view?"
+Live Dashboard = "https://lnkd.in/gJQSYTqy" 
