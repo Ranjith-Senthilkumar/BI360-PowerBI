@@ -1,1 +1,1 @@
-Live Dashboard = "https://app.powerbi.com/view?r=eyJrIjoiMmEyZDIxMmItMTg2Zi00MDhkLWE5NjUtMjNjMGI3ODUxMWIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9275feb00c2e013d8906" frameborder="0" allowFullScreen="true"></iframe>
+Live Dashboard = "https://app.powerbi.com/view?"
