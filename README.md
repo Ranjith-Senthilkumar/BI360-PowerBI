@@ -1,4 +1,4 @@
-**Live Dashboard** = Link[https://lnkd.in/gJQSYTqy]
+**Live Dashboard** = https://lnkd.in/gJQSYTqy
 
 # BI360 - Power BI Project
 
