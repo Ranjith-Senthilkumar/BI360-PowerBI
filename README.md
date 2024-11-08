@@ -1,4 +1,4 @@
-Live Dashboard = "https://lnkd.in/gJQSYTqy"
+**Live Dashboard** = Link[https://lnkd.in/gJQSYTqy]
 
 # BI360 - Power BI Project
 
@@ -22,8 +22,3 @@ The **Marketing View** page evaluates the effectiveness of marketing campaigns, 
 ### Supply Chain View
 The **Supply Chain View** page focuses on supply chain metrics, including inventory levels, order fulfillment rates, and lead times. This page provides insights into supply chain efficiency and helps identify bottlenecks. Users can analyze supplier performance and assess inventory turnover by product category and region.
 
-## Getting Started
-1. **Install Power BI Desktop**: [Download Power BI Desktop](https://powerbi.microsoft.com/).
-2. **Clone this Repository**:
-   ```bash
-   git clone https://github.com/yourusername/BI360-PowerBI-Project.git
